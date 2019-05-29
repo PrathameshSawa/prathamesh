@@ -1,1 +1,5 @@
-console.log(`Hello world`);
+newFunction();
+
+function newFunction() {
+    console.log(`Hello world`);
+}
